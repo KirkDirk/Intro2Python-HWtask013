@@ -5,8 +5,6 @@
 # - [1.1, 1.2, 3.1, 5, 10.01] => 0.19
 
 from math import trunc
-from unittest import result
-
 
 floatlist = [1.1, 1.2, 3.1, 5, 10.01]
 templist = []
